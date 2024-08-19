@@ -2,7 +2,9 @@
 
 A website for selling natural indoor/outdoor plants and a special category for the rare ones, in addition to the tools needed to take care of the plants like soil, fertilizers, accessories, and plant pots. 
 <img width="891" alt="Screen Shot 2024-08-19 at 9 18 32 AM" src="https://github.com/user-attachments/assets/9e6dfe5c-8e1d-4c3d-8f19-cd846b1fef6d">
-<img width="897" alt="Screen Shot 2024-08-19 at 9 19 37 AM" src="https://github.com/user-attachments/assets/95965c5e-3e11-485c-afcf-8dea57ee9452">
+
+<img width="877" alt="Screen Shot 2024-08-19 at 9 20 19 AM" src="https://github.com/user-attachments/assets/1aac4c80-1a7c-4c29-a564-e6a5ef24c616">
+
 
 <h2> Technologies Used: </h2>
 
