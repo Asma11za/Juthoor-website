@@ -26,3 +26,6 @@ A website for selling natural indoor/outdoor plants and a special category for t
 
 <h3>Database</h3>
 <img src="https://github.com/user-attachments/assets/1b2dac30-ee81-4978-b1d1-b2982075bf37" width="500" alt="Database">
+
+<h3> ERD </h3>
+<img width="487" src="https://github.com/user-attachments/assets/d263a971-5a8b-488a-806f-f47efc51c9aa">
