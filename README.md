@@ -20,6 +20,7 @@ A website for selling natural indoor/outdoor plants and a special category for t
 <img src="https://github.com/user-attachments/assets/745cd08b-6b3f-47fe-89bd-80565e5ff400" width="1200" alt="Interface 4"><br>
 <img src="https://github.com/user-attachments/assets/cdcef60e-4d5f-4c87-9424-b9a350093a13" width="1200" alt="Interface 5"><br>
 <img src="https://github.com/user-attachments/assets/16291969-1d0e-4da3-a84b-35ecc76e2489" width="1200" alt="Interface 6"><br>
+<img src="https://github.com/user-attachments/assets/ccbbb737-0b2c-4d55-b71d-668e4ba2ccbb" width="1200" alt="Image">
 
 <img src="https://github.com/user-attachments/assets/942b0e79-02bd-4436-9c82-be77f383d92b" width="1200" alt="Interface 7"><br>
 <img src="https://github.com/user-attachments/assets/2d25f923-b838-4414-9f98-4143c196ba65" width="1200" alt="Interface 8"><br>
